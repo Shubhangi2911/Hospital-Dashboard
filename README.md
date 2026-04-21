@@ -133,7 +133,7 @@ Supports financial planning, cost control, and profitability analysis.
 <img width="985" height="562" alt="Screenshot 2026-04-21 145711" src="https://github.com/user-attachments/assets/6be0f8e9-af77-44d5-b958-cbf41a7e26ef" />
 <img width="1018" height="580" alt="Screenshot 2026-04-21 150024" src="https://github.com/user-attachments/assets/a38c2b15-e344-462a-bdbb-fbd066ac55f4" />
 <img width="1000" height="563" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/93c48404-6472-4e0b-ba0e-038d1186c993" />
-<img width="968" height="590" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/1700faf8-ab82-4685-8700-efcabc8324c9" />
+<img width="984" height="602" alt="Screenshot (459)" src="https://github.com/user-attachments/assets/1663d104-8e73-4047-b57a-a5e1e0f3202e" />
 
 <img width="968" height="590" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/b92e16e5-8780-46a3-9c89-2f3f5b07bb6f" />
 
