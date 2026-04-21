@@ -132,6 +132,8 @@ Supports financial planning, cost control, and profitability analysis.
 <img width="990" height="570" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/bd7a28a3-6e6d-476f-9dea-f654f26528c5" />
 <img width="985" height="562" alt="Screenshot 2026-04-21 145711" src="https://github.com/user-attachments/assets/6be0f8e9-af77-44d5-b958-cbf41a7e26ef" />
 <img width="1018" height="580" alt="Screenshot 2026-04-21 150024" src="https://github.com/user-attachments/assets/a38c2b15-e344-462a-bdbb-fbd066ac55f4" />
+<img width="1000" height="563" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/93c48404-6472-4e0b-ba0e-038d1186c993" />
+
 <img width="1000" height="563" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/e05649ce-a6d2-4734-b819-2f30c1bc592c" />
 <img width="1000" height="563" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/bd9ecf35-65b9-4cf3-a863-7931a3bff912" />
 <img width="968" height="590" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/b92e16e5-8780-46a3-9c89-2f3f5b07bb6f" />
@@ -154,7 +156,7 @@ Supports financial planning, cost control, and profitability analysis.
 
 ### 🤖 AI & Predictive Analytics
 - Predict patient admissions
-- Forecast discharge trends<img width="990" height="570" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/dee25c76-9a9f-485d-b694-357200a8057a" />
+- Forecast discharge trends
 
 - Identify high-risk patients
 
