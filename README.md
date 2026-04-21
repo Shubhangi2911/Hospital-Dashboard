@@ -129,12 +129,16 @@ Supports financial planning, cost control, and profitability analysis.
 
 ## 📷 Dashboard Preview
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d0f39562-8065-461b-83f1-362413bc2b33" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9fa872ca-a223-409a-96f9-f95a64ee9e34" />
-<img width="1018" height="580" alt="Screenshot 2026-04-21 150024" src="https://github.com/user-attachments/assets/198da240-7425-4f67-aab7-bc08b2dd4e36" />
-<img width="1018" height="580" alt="Screenshot 2026-04-21 150024" src="https://github.com/user-attachments/assets/d7e6d2f2-f526-46e5-9bdf-c2039c037646" />
-<img width="1018" height="580" alt="Screenshot 2026-04-21 150024" src="https://github.com/user-attachments/assets/b4d8350d-03fa-4c3b-a473-d791101ad93d" />
-<img width="1018" height="580" alt="Screenshot 2026-04-21 150024" src="https://github.com/user-attachments/assets/234a7710-8900-43d5-bea0-485e90be4c24" />
+<img width="990" height="570" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/bd7a28a3-6e6d-476f-9dea-f654f26528c5" />
+<img width="985" height="562" alt="Screenshot 2026-04-21 145711" src="https://github.com/user-attachments/assets/6be0f8e9-af77-44d5-b958-cbf41a7e26ef" />
+<img width="1018" height="580" alt="Screenshot 2026-04-21 150024" src="https://github.com/user-attachments/assets/a38c2b15-e344-462a-bdbb-fbd066ac55f4" />
+<img width="1000" height="563" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/e05649ce-a6d2-4734-b819-2f30c1bc592c" />
+<img width="1000" height="563" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/bd9ecf35-65b9-4cf3-a863-7931a3bff912" />
+<img width="968" height="590" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/b92e16e5-8780-46a3-9c89-2f3f5b07bb6f" />
+
+
+
+
 
 
 ---
@@ -150,7 +154,8 @@ Supports financial planning, cost control, and profitability analysis.
 
 ### 🤖 AI & Predictive Analytics
 - Predict patient admissions
-- Forecast discharge trends
+- Forecast discharge trends<img width="990" height="570" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/dee25c76-9a9f-485d-b694-357200a8057a" />
+
 - Identify high-risk patients
 
 ### 📱 Real-Time Data Integration
